@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "uuid": "^14.0.0"
+    "uuid": "^9.0.1"
   },
   "engines": {
     "node": "14.x"
